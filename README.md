@@ -2,8 +2,8 @@
 Octubre 2024
 
 Aquí se encontrará 30 gráficos creados y organizados por categorías. 
-
-| Comparaciones | Distribuciones | Relaciones | Series Temporales | Incertidumbres |
+| ![Comparaciones](visualizaciones/Comparisons.png) | ![Distribuciones](https://via.placeholder.com/150x100.png?text=Distribuciones) | ![Relaciones](https://via.placeholder.com/150x100.png?text=Relaciones) | ![Series](https://via.placeholder.com/150x100.png?text=Series) | ![Incertidumbres](https://via.placeholder.com/150x100.png?text=Incertidumbres) |
+| Comparisons | Distributions | Relationships | Timeseries | Uncertainties |
 |--------------|----------------|------------|-------------------|----------------|
 | [01. Part-to-whole](#) | [07. Peligros](#) | [13. Familia](#) | [19. Dinosaurios](#) | [25. Cambio global](#) |
 | [02. Neo](#) | [08. Circular](#) | [14. Heatmap](#) | [20. Correlación](#) | [26. IA](#) |
